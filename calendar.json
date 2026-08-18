@@ -198,6 +198,19 @@
       "caption": "🚨 Dernier jour ! L'offre du mois se termine aujourd'hui, stock limité sur les modèles concernés.\n\nNe rate pas l'occasion de repartir avec ton MacBook quasi neuf, garanti et vérifié.\n\nCommande maintenant, avant qu'il ne soit trop tard.\n\n#EKMacStore #DernierJour #MacBookAbidjan #AppleCI",
       "needs_review": true,
       "review_note": "Confirmer que la promo est bien active ce jour avant publication."
+    },
+    {
+      "id": "w5-mon",
+      "day_offset": 28,
+      "week": 5,
+      "day": "Lundi",
+      "platforms": ["facebook", "instagram"],
+      "format": "Post + Story",
+      "pilier": "Offre",
+      "image_filename": "IMG_7412.png",
+      "caption": "⚡ VENTE FLASH chez EK MacStore !\n\nMacBook Air M2 15\" 2023 — 8 Go / 256 Go SSD, batterie à 95% (131 cycles seulement) — 590 000 FCFA.\n\nUn Mac quasi neuf, vérifié et couvert par notre garantie de 1 à 2 mois, au format 15\" léger et puissant grâce à la puce M2.\n\nStock limité — écris-nous en DM ou WhatsApp avant qu'il ne parte.\n\n#EKMacStore #VenteFlash #MacBookAirM2 #MacBookAbidjan #AppleCI",
+      "needs_review": true,
+      "review_note": "Confirmer que le MacBook Air M2 15\" est toujours disponible et que le prix de 590 000 FCFA est encore valable avant publication."
     }
   ]
 }
